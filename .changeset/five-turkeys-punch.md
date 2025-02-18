@@ -1,5 +1,0 @@
----
-"@fuels/connectors": patch
----
-
-lacoste
