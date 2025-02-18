@@ -6,6 +6,7 @@ export function createConfig(func: () => FuelConfig) {
     return {
       connectors: [],
     };
+
   return func();
 }
 
