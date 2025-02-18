@@ -28,8 +28,8 @@ export class FueletWalletConnector extends FuelWalletConnector {
   name = 'Fuelet Wallet';
   metadata: ConnectorMetadata = {
     image: {
-      light: APP_IMAGE_LIGHT,
       dark: APP_IMAGE_DARK,
+      light: APP_IMAGE_LIGHT,
     },
     install: {
       action: 'Install',
