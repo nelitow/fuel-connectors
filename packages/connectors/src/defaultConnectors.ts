@@ -18,8 +18,8 @@ type DefaultConnectors = {
   wcProjectId?: string;
   burnerWalletConfig?: BurnerWalletConfig;
   ethWagmiConfig?: Config;
-  solanaConfig?: ProviderType;
   ethSkipAutoReconnect?: boolean;
+  solanaConfig?: ProviderType;
   chainId?: number;
   fuelProvider?: FuelProvider | Promise<FuelProvider>;
 };
