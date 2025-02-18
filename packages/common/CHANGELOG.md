@@ -1,5 +1,11 @@
 # @fuel-connectors/common
 
+## 0.42.0
+
+### Minor Changes
+
+- [`0425675`](https://github.com/FuelLabs/fuel-connectors/commit/04256752696aaf2e97c6bcf637f79ac8a064eb5f) Thanks [@nelitow](https://github.com/nelitow)! - 1
+
 ## 0.41.0
 
 ### Minor Changes
