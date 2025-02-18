@@ -1,5 +1,11 @@
 # @fuels/connectors
 
+## 0.39.1
+
+### Patch Changes
+
+- [`c5295b4`](https://github.com/FuelLabs/fuel-connectors/commit/c5295b4a266de9fdfdcbe4c1ec780bf3b5c4d8dc) Thanks [@nelitow](https://github.com/nelitow)! - asd
+
 ## 0.39.0
 
 ### Minor Changes
