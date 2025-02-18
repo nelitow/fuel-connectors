@@ -1,5 +1,7 @@
 # @fuel-connectors/evm-predicates
 
+## 0.39.2
+
 ## 0.39.1
 
 ### Patch Changes

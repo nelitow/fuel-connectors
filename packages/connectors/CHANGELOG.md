@@ -1,5 +1,13 @@
 # @fuels/connectors
 
+## 0.39.2
+
+### Patch Changes
+
+- [`724f629`](https://github.com/FuelLabs/fuel-connectors/commit/724f629f1380245c615d7be5dd7ba15501804950) Thanks [@nelitow](https://github.com/nelitow)! - lacoste
+
+- [`2783e2e`](https://github.com/FuelLabs/fuel-connectors/commit/2783e2e94a7d303aad3d6655209361e08ffb411d) Thanks [@nelitow](https://github.com/nelitow)! - asd
+
 ## 0.39.1
 
 ### Patch Changes
