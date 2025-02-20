@@ -4,8 +4,8 @@ import { type PrivateKeyAccount, privateKeyToAccount } from 'viem/accounts';
 import type { Hash, Option } from './types';
 
 export interface FakeAccount {
-  generate: () => void;
   getAddress: () => Option<string, Hash>;
+  generate: () => void;
   getRawAddress: () => Uint8Array;
   signMessage: (
     message: Option<string, Uint8Array, Hash>,
