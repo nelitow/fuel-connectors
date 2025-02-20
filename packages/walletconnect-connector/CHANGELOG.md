@@ -1,5 +1,11 @@
 # @fuel-connectors/walletconnect-connector
 
+## 0.42.1
+
+### Patch Changes
+
+- [#484](https://github.com/FuelLabs/fuel-connectors/pull/484) [`455dacb`](https://github.com/FuelLabs/fuel-connectors/commit/455dacba761ca642cd784097bc50e6ef4a2586e4) Thanks [@nelitow](https://github.com/nelitow)! - Update `vitest` dependencies.
+
 ## 0.42.0
 
 ## 0.41.0
