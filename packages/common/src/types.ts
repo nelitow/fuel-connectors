@@ -51,8 +51,8 @@ export type PreparedTransaction = {
 };
 
 export type SignedMessageCustomCurve = {
-  curve: string;
   signature: string;
+  curve: string;
 };
 
 // export interface PaymasterParams {

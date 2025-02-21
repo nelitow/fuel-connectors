@@ -8,8 +8,8 @@ import {
 import type { Hash, Option } from './types';
 
 export interface PredicateWalletAdapter {
-  convertAddress: (address: string) => string;
   generateFakeAccount: () => FakeAccount;
+  convertAddress: (address: string) => string;
   buildWitnessData: (
     account: FakeAccount,
     signature: Option<string, Uint8Array, Hash>,
