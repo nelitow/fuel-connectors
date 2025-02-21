@@ -9,7 +9,6 @@ export const MAINNET_NETWORK: Network = {
   chainId: CHAIN_IDS.fuel.mainnet,
   url: 'https://mainnet.fuel.network/v1/graphql',
 };
-
 export const DEFAULT_NETWORKS: Network[] = [
   TESTNET_NETWORK,
   {

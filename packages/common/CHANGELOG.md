@@ -1,5 +1,33 @@
 # @fuel-connectors/common
 
+## 0.42.1
+
+### Patch Changes
+
+- [#484](https://github.com/FuelLabs/fuel-connectors/pull/484) [`455dacb`](https://github.com/FuelLabs/fuel-connectors/commit/455dacba761ca642cd784097bc50e6ef4a2586e4) Thanks [@nelitow](https://github.com/nelitow)! - Update `vitest` dependencies.
+
+## 0.42.0
+
+### Minor Changes
+
+- [`0425675`](https://github.com/FuelLabs/fuel-connectors/commit/04256752696aaf2e97c6bcf637f79ac8a064eb5f) Thanks [@nelitow](https://github.com/nelitow)! - 1
+
+## 0.41.0
+
+### Minor Changes
+
+- [`35c7911`](https://github.com/FuelLabs/fuel-connectors/commit/35c79115239be4a1369b33e2c1fcc7bd58d43828) Thanks [@nelitow](https://github.com/nelitow)! - 1
+
+## 0.40.0
+
+## 0.39.2
+
+### Patch Changes
+
+- [`2783e2e`](https://github.com/FuelLabs/fuel-connectors/commit/2783e2e94a7d303aad3d6655209361e08ffb411d) Thanks [@nelitow](https://github.com/nelitow)! - asd
+
+## 0.39.1
+
 ## 0.39.0
 
 ### Minor Changes

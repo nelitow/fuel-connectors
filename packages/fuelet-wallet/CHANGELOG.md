@@ -1,5 +1,25 @@
 # @fuel-connectors/fuelet-wallet
 
+## 0.42.1
+
+## 0.42.0
+
+## 0.41.0
+
+## 0.40.0
+
+### Minor Changes
+
+- [`f24cd98`](https://github.com/FuelLabs/fuel-connectors/commit/f24cd986988a724fddd64029e5460d384715c853) Thanks [@nelitow](https://github.com/nelitow)! - Minors
+
+### Patch Changes
+
+- [`8f0af2b`](https://github.com/FuelLabs/fuel-connectors/commit/8f0af2b2a40599bb82461a15aa8d2bf034f8d2e3) Thanks [@nelitow](https://github.com/nelitow)! - aaa
+
+## 0.39.2
+
+## 0.39.1
+
 ## 0.39.0
 
 ### Minor Changes
