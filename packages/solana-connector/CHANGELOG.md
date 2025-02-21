@@ -162,7 +162,7 @@
 
 - [#167](https://github.com/FuelLabs/fuel-connectors/pull/167) [`ed5fb44`](https://github.com/FuelLabs/fuel-connectors/commit/ed5fb440b1b0739fbeb616156864d9ba6da3ac07) Thanks [@LeoCourbassier](https://github.com/LeoCourbassier)! - - Bumped packages version from `0.9.0` to `0.23.0` following react package's version
 
-  - Updated react-next example to use `defaultConnectors` from @fuels/connectors package
+  - Updated react-next example to use `defaultConnectors` from @nelitow/connectors package
 
 - [#179](https://github.com/FuelLabs/fuel-connectors/pull/179) [`d175142`](https://github.com/FuelLabs/fuel-connectors/commit/d175142c7efb3f7134ddef2eae4d318f18bce7ed) Thanks [@helciofranco](https://github.com/helciofranco)! - `Phantom Wallet` is now featured in the Solana wallet connectors list.
   Previously, it required installation or accessing the “All Wallets” list to be found.

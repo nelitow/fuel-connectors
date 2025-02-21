@@ -1,6 +1,5 @@
 'use client';
 
-import { hasSignMessageCustomCurve } from '@fuels/connectors';
 import {
   useAccounts,
   useConnectUI,
@@ -9,6 +8,7 @@ import {
   useIsConnected,
   useWallet,
 } from '@fuels/react';
+import { hasSignMessageCustomCurve } from '@nelitow/connectors';
 import { useState } from 'react';
 
 export default function PageContent() {

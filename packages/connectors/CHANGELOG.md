@@ -1,4 +1,4 @@
-# @fuels/connectors
+# @nelitow/connectors
 
 ## 0.39.0
 
@@ -164,7 +164,7 @@
 
 - [#167](https://github.com/FuelLabs/fuel-connectors/pull/167) [`ed5fb44`](https://github.com/FuelLabs/fuel-connectors/commit/ed5fb440b1b0739fbeb616156864d9ba6da3ac07) Thanks [@LeoCourbassier](https://github.com/LeoCourbassier)! - - Bumped packages version from `0.9.0` to `0.23.0` following react package's version
 
-  - Updated react-next example to use `defaultConnectors` from @fuels/connectors package
+  - Updated react-next example to use `defaultConnectors` from @nelitow/connectors package
 
 - [#178](https://github.com/FuelLabs/fuel-connectors/pull/178) [`98df6e3`](https://github.com/FuelLabs/fuel-connectors/commit/98df6e304f67a8aa6f43eec9194d179ebfd42725) Thanks [@helciofranco](https://github.com/helciofranco)! - Export BurnerWalletConfig type to use with Burner Wallet Connector
 
@@ -259,7 +259,7 @@
 
 - [#22](https://github.com/FuelLabs/fuel-connectors/pull/22) [`332976e`](https://github.com/FuelLabs/fuel-connectors/commit/332976ef690f8fc1d20879c493496e2f57185cb7) Thanks [@fuel-service-user](https://github.com/fuel-service-user)! - ci: update to tag latest
 
-- [#19](https://github.com/FuelLabs/fuel-connectors/pull/19) [`e75249b`](https://github.com/FuelLabs/fuel-connectors/commit/e75249b61a8c3c2e57dcea9e7c3ca9951081b47b) Thanks [@helciofranco](https://github.com/helciofranco)! - ci: remove redundant packages from the umbrella `@fuels/connectors` package
+- [#19](https://github.com/FuelLabs/fuel-connectors/pull/19) [`e75249b`](https://github.com/FuelLabs/fuel-connectors/commit/e75249b61a8c3c2e57dcea9e7c3ca9951081b47b) Thanks [@helciofranco](https://github.com/helciofranco)! - ci: remove redundant packages from the umbrella `@nelitow/connectors` package
 
 - [#23](https://github.com/FuelLabs/fuel-connectors/pull/23) [`adf2fa0`](https://github.com/FuelLabs/fuel-connectors/commit/adf2fa0c9116b4b7a57755d455dc3c544cd72d98) Thanks [@fuel-service-user](https://github.com/fuel-service-user)! - ci: update to tag latest
 

@@ -34,5 +34,5 @@ jobs:
 
       - name: Change tag to latest
         run: |
-          npm dist-tag add @fuels/connectors@${{ env.BUILD_VERSION }} latest
+          npm dist-tag add @nelitow/connectors@${{ env.BUILD_VERSION }} latest
           npm dist-tag add @fuels/react@${{ env.BUILD_VERSION }} latest

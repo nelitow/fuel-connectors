@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@fuels/connectors": "workspace:*",
+    "@nelitow/connectors": "workspace:*",
     "@fuels/react": "workspace:*",
     "@tanstack/react-query": "5.35.1",
     "connectkit": "1.8.2",

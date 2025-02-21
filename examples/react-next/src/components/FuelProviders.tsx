@@ -4,8 +4,8 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools';
 
 import { DEFAULT_WAGMI_CONFIG } from '@/config/config';
-import { createConfig, defaultConnectors } from '@fuels/connectors';
 import { FuelProvider } from '@fuels/react';
+import { createConfig, defaultConnectors } from '@nelitow/connectors';
 import { CHAIN_IDS, Provider } from 'fuels';
 import { useState } from 'react';
 import { type State, WagmiProvider } from 'wagmi';
