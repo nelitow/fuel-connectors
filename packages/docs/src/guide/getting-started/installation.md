@@ -5,20 +5,20 @@
 
 # Installation
 
-The first step is to add the `@fuels/connectors` dependency to your project. You can do this using the following command:
+The first step is to add the `@nelitow/connectors` dependency to your project. You can do this using the following command:
 
 ::: code-group
 
 ```sh-vue [npm]
-npm install @fuels/connectors@{{version}} --save
+npm install @nelitow/connectors@{{version}} --save
 ```
 
 ```sh-vue [pnpm]
-pnpm add @fuels/connectors@{{version}}
+pnpm add @nelitow/connectors@{{version}}
 ```
 
 ```sh-vue [bun]
-bun add @fuels/connectors@{{version}}
+bun add @nelitow/connectors@{{version}}
 ```
 
 :::

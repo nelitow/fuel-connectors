@@ -11,14 +11,14 @@ This package enables users to use their **wallets** to sign transactions on Fuel
 ### Install
 
 ```sh
-npm install fuels @fuels/connectors
+npm install fuels @nelitow/connectors
 ```
 
 ### Usage
 
 ```ts
 import { Fuel } from "fuels";
-import { FuelWalletConnector } from "@fuels/connectors";
+import { FuelWalletConnector } from "@nelitow/connectors";
 
 const fuel = new Fuel({
   connectors: [

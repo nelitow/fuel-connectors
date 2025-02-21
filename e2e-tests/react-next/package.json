@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react-app": "workspace:*",
-    "@fuels/connectors": "workspace:*",
+    "@nelitow/connectors": "workspace:*",
     "@fuels/react": "workspace:*",
     "@radix-ui/react-toast": "1.1.5",
     "@tanstack/react-query": "5.35.1",

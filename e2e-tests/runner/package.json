@@ -21,7 +21,7 @@
     "deploy:contracts:ci": "sh ./scripts/deployCI.sh"
   },
   "devDependencies": {
-    "@fuels/connectors": "workspace:*",
+    "@nelitow/connectors": "workspace:*",
     "@fuels/playwright-utils": "0.49.0",
     "@playwright/test": "1.48.2",
     "@synthetixio/synpress": "4.0.3",

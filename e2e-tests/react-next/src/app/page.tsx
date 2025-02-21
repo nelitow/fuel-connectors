@@ -1,6 +1,6 @@
 'use client';
-import { defaultConnectors } from '@fuels/connectors';
 import { FuelProvider } from '@fuels/react';
+import { defaultConnectors } from '@nelitow/connectors';
 import { coinbaseWallet, walletConnect } from '@wagmi/connectors';
 import { http, createConfig, injected } from '@wagmi/core';
 import { mainnet, sepolia } from '@wagmi/core/chains';
