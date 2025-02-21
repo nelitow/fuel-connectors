@@ -1,5 +1,5 @@
 {
-  "name": "@fuels/connectors",
+  "name": "@nelitow/fuel-connectors",
   "version": "0.42.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
