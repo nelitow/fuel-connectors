@@ -16,7 +16,7 @@ jobs:
     if: |
       startsWith(github.event.head_commit.message, 'ci(release):') &&
       github.event.before != '0000000000000000000000000000000000000000'
-    runs-on: buildjet-4vcpu-ubuntu-2204
+    runs-on: ubuntu-latest
     environment: npm-deploy
     outputs:
       has_published_packages: ${{ steps.debug-published.outputs.has_published_packages }}
