@@ -7,8 +7,8 @@ export class InMemoryStorage implements StorageAbstract {
     this.storage = new Map<string, string>();
   }
 
-  async setItem(key: string, value: string): Promise<void> {
-    this.storage.set(key, value);
+  async clear(): Promise<void> {
+    this.storage.clear();
   }
 
   async getItem(key: string): Promise<string | null> {
@@ -20,7 +20,7 @@ export class InMemoryStorage implements StorageAbstract {
     this.storage.delete(key);
   }
 
-  async clear(): Promise<void> {
-    this.storage.clear();
+  async setItem(key: string, value: string): Promise<void> {
+    this.storage.set(key, value);
   }
 }
