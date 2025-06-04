@@ -1,5 +1,13 @@
 # @fuel-connectors/burner-wallet-connector
 
+## 0.44.0
+
+### Minor Changes
+
+- [`01d8781`](https://github.com/FuelLabs/fuel-connectors/commit/01d878114f2e7ca4f5b8a32b6fa5d48a64880ea8) Thanks [@nelitow](https://github.com/nelitow)! - feat: alhpabetized
+
+- [#527](https://github.com/FuelLabs/fuel-connectors/pull/527) [`b533c58`](https://github.com/FuelLabs/fuel-connectors/commit/b533c588a4d3e907813e7dcdd9bb0865383de9e7) Thanks [@nelitow](https://github.com/nelitow)! - chore: alphabetically order variables
+
 ## 0.43.0
 
 ## 0.42.0
