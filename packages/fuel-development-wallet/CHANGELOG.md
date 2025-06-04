@@ -1,5 +1,11 @@
 # @fuel-connectors/fuel-development-wallet
 
+## 0.44.0
+
+### Minor Changes
+
+- [#527](https://github.com/FuelLabs/fuel-connectors/pull/527) [`f9d94ba`](https://github.com/FuelLabs/fuel-connectors/commit/f9d94baad4bc62c06e7cc001cfec444dd7191f7d) Thanks [@nelitow](https://github.com/nelitow)! - test: change
+
 ## 0.43.0
 
 ## 0.42.0
