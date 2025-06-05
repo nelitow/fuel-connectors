@@ -1,5 +1,11 @@
 # @fuel-connectors/evm-predicates
 
+## 0.45.0
+
+### Minor Changes
+
+- [`2e24cca`](https://github.com/FuelLabs/fuel-connectors/commit/2e24cca70f252e4f33e054e5b0a4bbdc87cda940) Thanks [@nelitow](https://github.com/nelitow)! - feat; rnadom
+
 ## 0.44.0
 
 ## 0.43.0

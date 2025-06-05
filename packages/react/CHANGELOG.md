@@ -1,5 +1,11 @@
 # @fuels/react
 
+## 0.45.0
+
+### Minor Changes
+
+- [`2e44d5a`](https://github.com/FuelLabs/fuel-connectors/commit/2e44d5a11c02b2d5fe3e8360a4c4c58ae204bba3) Thanks [@nelitow](https://github.com/nelitow)! - feat: darkness
+
 ## 0.44.0
 
 ## 0.43.0
